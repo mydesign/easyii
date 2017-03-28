@@ -3,7 +3,7 @@ namespace yii\easyii\assets;
 
 class FancyboxAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/fancybox/source';
+    public $sourcePath = '@bower-asset/fancybox/src';
 
     public $css = [
         'jquery.fancybox.css',
